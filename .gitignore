@@ -1,0 +1,22 @@
+# Ignore raw data
+01_원본데이터/
+99_폐기_이전버전/
+
+# Ignore binary files
+*.e57
+*.ply
+*.zip
+*.rar
+*.7z
+*.mp4
+*.m4a
+
+# Ignore python caches
+__pycache__/
+*.pyc
+venv_lidar/
+.venv/
+venv/
+env/
+*.log
+04_처리스크립트/로그/
